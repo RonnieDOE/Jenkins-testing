@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Kuberetes Test</h1>
+    <h1>Kuberetes Test 2</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
